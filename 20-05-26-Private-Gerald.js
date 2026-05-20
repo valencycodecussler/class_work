@@ -20,16 +20,15 @@ console.log("NewBalance:"+ NewBalance);
 
 
 //2.) Create a function that takes another function as a param.(You have to create a function named {get balance} that function must be passed as a param to another one )
-
-// let GetBalance = function(num1,num2){
-//     console.log(num1 + num2);
-// };
-// (GetBalance(23,56));
-
-// let DisplayBalance = function(){
- 
-// }
-
+function GetBalance(){
+        let value = 100;
+        return value;
+    }
+ let ApplyInterest = function(num1){
+    num1= num1+(num1*10/100);
+    console.log(num1);
+ };
+ ApplyInterest(GetBalance());
 
 //3)Create a function that constanly adds the values of a group of objects and returns the total.
 let Iterator = function(){
