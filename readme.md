@@ -4,7 +4,8 @@ The purpose of this pop quiz is to practice the programming concepts we took a l
 
 Questions
 
-1.) Create a function that test if someone is an adult. is they are 35 applt a 10% increase on whaterever balance they have. if they are 45 15%. if they are 50 or older they get a 30% on the interest.
+1.) Create a function that test if someone is an adult. is they are 35 applt a 10% increase on whaterever balance they have. if they are 45 15%. if they are 50 or        
+older they get a 30% on the interest.
 
 2.) Create a function that takes another function as a param.(You have to create a function named {get balance} that function must be passed as a param to another one )
 
@@ -12,7 +13,7 @@ Questions
 
 Bonus Question:
 
-4) create a simple for loop.
+4) create a simple for loop.          
 
 
 POP QUIZ: 21-05-26
